@@ -1,0 +1,68 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "exreal",
+            "cwd": "exreal",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "exreal (profile mode)",
+            "cwd": "exreal",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "exreal (release mode)",
+            "cwd": "exreal",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "f_converter_2_ext-main",
+            "cwd": "f_converter_2_ext-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "f_converter_2_ext-main (profile mode)",
+            "cwd": "f_converter_2_ext-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "f_converter_2_ext-main (release mode)",
+            "cwd": "f_converter_2_ext-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "f_imc_ex-master",
+            "cwd": "f_imc_ex-master",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "f_imc_ex-master (profile mode)",
+            "cwd": "f_imc_ex-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "f_imc_ex-master (release mode)",
+            "cwd": "f_imc_ex-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
